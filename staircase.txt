@@ -1,0 +1,7 @@
+input pairs
+preferred python, any language
+
+read file
+input tuples
+...
+start w/that
