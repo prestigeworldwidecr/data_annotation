@@ -1,0 +1,24 @@
+q1 b
+exp 1 is illegible. 3 for some reason for some queer reason uses 3 temp strings
+
+q2 a
+exp 2 uses too much storage. 3 has too many checks
+
+q3
+initialize
+while
+if
+add
+else
+n
+digit
+
+q4
+b
+A is vague. B outlines the legality and admonishes the user
+
+q5
+a
+
+b
+A incorrectly initializes step and subsets within While

@@ -52,4 +52,4 @@ a = [1, 2, 3, 4, 5, 6]
 b = [1, 2, 3, 4, 5, 6]
 
 # print(create_staircase1(a))
-print(create_staircase2(b))
+# print(create_staircase2(b))
